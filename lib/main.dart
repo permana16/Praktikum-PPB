@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:tugas_362558302118_yoga_permana/moduls_2/kopi_kita/kopi_kita_app.dart';
-import 'package:tugas_362558302118_yoga_permana/moduls_2/modul_02_app.dart';
+import 'package:tugas_362558302118_yoga_permana/moduls_3/modul_03_app.dart';
 
 void main() {
   runApp(const PoliwangiProfileApp());
@@ -20,7 +19,7 @@ class PoliwangiProfileApp extends StatelessWidget {
         ), // Biru Poliwangi
         useMaterial3: true,
       ),
-      home: const Modul02App(),
+      home: const Modul03App(),
     );
   }
 }

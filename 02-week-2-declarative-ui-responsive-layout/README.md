@@ -1,4 +1,4 @@
-# Laporan Praktikum Modul 01: Mobile Ecosystem, Flutter Setup & Profile App
+# Laporan Praktikum Modul 02: Declarative UI Responsif Layout
 
 - **Nama**: Muhammad Yoga Permana Yudya
 - **NIM**: 362558302118
